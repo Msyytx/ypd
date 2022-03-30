@@ -2,12 +2,12 @@
 
 * [README](README.md)
 
-## The Company
+## 萌芽
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Vision and Values](萌芽/vision-and-values.md)
+* [Meet the Team!](萌芽/meet-the-team.md)
 
-## The Formal Stuff
+## 成长
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Requesting Time Off](成长/requesting-time-off.md)
+* [Filing Expenses](成长/filing-expenses.md)
